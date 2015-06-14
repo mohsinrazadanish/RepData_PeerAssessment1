@@ -1,3 +1,8 @@
+# Project: Peer Assessment 1
+
+This project is submitted in response to the peer assessment 
+assignment 1 of the course Reproducible Research.
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
