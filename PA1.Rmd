@@ -1,24 +1,16 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
+author: "mohsinrazadanish"
+date: "14 Jun 2015"
 output: 
   html_document:
     keep_md: true
 ---
 
-
-
-
----
-title: "Peer Assessment 1"
-author: "mohsinrazadanish"
-date: "14 Jun 2015"
-output: html_document
----
-
 ## Basic settings
 ```{r}
 echo = TRUE  # Always make code visible
-options(scipen = 1)  # Turn off scientific notations for numbers
+# options(scipen = 1)  # Turn off scientific notations for numbers
 library(knitr)
 library(ggplot2)
 ```
