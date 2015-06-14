@@ -17,8 +17,7 @@ library(ggplot2)
 
 ## Loading and processing the data
 ```{r}
-unzip("activity.zip")
-data <- read.csv("activity.csv", colClasses = c("integer", "Date", "factor"))
+data <- read.table(unz("activity.zip", "activity.csv"), header=T, quote="\"", sep=",")
 data$month <- as.numeric(format(data$date, "%m"))
 noNA <- na.omit(data)
 rownames(noNA) <- 1:nrow(noNA)
