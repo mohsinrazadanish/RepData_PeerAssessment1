@@ -1,6 +1,6 @@
 # Reproducible Research: Peer Assessment 1
 mohsinrazadanish  
-19 Jul 2015  
+14 Jun 2015  
 
 ## Basic settings
 
