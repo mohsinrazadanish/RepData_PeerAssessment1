@@ -1,6 +1,6 @@
 # Reproducible Research: Peer Assessment 1
 mohsinrazadanish  
-14 Jun 2015  
+19 Jul 2015  
 
 ## Basic settings
 
@@ -15,6 +15,10 @@ library(knitr)
 
 ```r
 library(ggplot2)
+```
+
+```
+## Warning: package 'ggplot2' was built under R version 3.1.3
 ```
 
 ## Loading and processing the data
@@ -266,7 +270,7 @@ library(lattice)
 ```
 
 ```
-## Warning: package 'lattice' was built under R version 3.1.2
+## Warning: package 'lattice' was built under R version 3.1.3
 ```
 
 ```r
