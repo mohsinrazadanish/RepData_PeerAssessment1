@@ -1,7 +1,7 @@
 # Project: Peer Assessment 1
 
-This project is submitted in response to the peer assessment 
-assignment 1 of the course Reproducible Research.
+This project is submitted to fulfil the requirement of the peer 
+assessment assignment 1 of the course Reproducible Research.
 
 ## Introduction
 
